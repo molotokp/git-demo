@@ -5,3 +5,5 @@ new song
 happy new year
 
 happy monday
+
+happy friday
